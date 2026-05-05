@@ -6,7 +6,7 @@ A full-stack task management web application that allows users to create, update
 
 LIVE DEMO
 
-Frontend: https://<your-vercel-url>
+Frontend: https://team-task-manager-eight-mu.vercel.app/
 Backend: https://team-task-manager-8mym.onrender.com
 
 --------------------------------------------------

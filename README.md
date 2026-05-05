@@ -1,6 +1,6 @@
 # 🚀 Team Task Manager
 
-A full-stack web application to manage daily tasks with authentication, deadlines, and real-time updates.
+A full-stack task management web application that allows users to create, update, and track tasks with authentication and deadline management.
 
 ---
 
@@ -13,37 +13,36 @@ A full-stack web application to manage daily tasks with authentication, deadline
 
 ## 🧠 Features
 
-- 🔐 User Authentication (Signup & Login)
-- ➕ Add Tasks
-- ✏️ Update Task Status (Done/Pending)
+- 🔐 User Authentication (Signup & Login using JWT)
+- ➕ Add Tasks with deadlines
+- ✏️ Update Task Status (Done / Pending)
 - 🗑 Delete Tasks
-- 📊 Task Statistics (Total, Completed, Overdue)
-- 📅 Deadline Tracking
-- 🌍 Fully Deployed Application
+- 📊 Dashboard with task statistics
+- ⏰ Overdue task tracking
+- 🌍 Fully deployed full-stack application
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 💻 Frontend
 - React.js
 - Axios
 - CSS (Custom Styling)
 
-### Backend
+### ⚙️ Backend
 - Node.js
 - Express.js
 
-### Database
+### 🗄 Database
 - MongoDB (Atlas)
 
-### Authentication
+### 🔐 Authentication
 - JWT (JSON Web Tokens)
 
-### Deployment
+### 🚀 Deployment
 - Frontend: Vercel
 - Backend: Render
 
 ---
-
-## 📂 Project Structure
+```bash
